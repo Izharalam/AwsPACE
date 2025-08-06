@@ -7,21 +7,21 @@ PACE (Prototyping and Cloud Engineering) Workshop
 
 ## Development Environment Setup:
 ### Required Software Installations:
-Python 3.9+ with pip package manager
-Node.js 18+ with npm package manager
-AWS CLI v2 configured with your credentials
-Amazon Q Dev Pro with CLI or Kiro Setup
-Git CLI (version 2.30+) with GitHub authentication
+* Python 3.9+ with pip package manager
+* Node.js 18+ with npm package manager
+* AWS CLI v2 configured with your credentials
+* Amazon Q Dev Pro with CLI or Kiro Setup
+* Git CLI (version 2.30+) with GitHub authentication
 
 
 ## GitHub & Development Setup
 ### GitHub Requirements:
-Active GitHub Account: Verified email address
-SSH Keys Configured: For seamless repository access
-Git CLI Proficiency: Repository forking, cloning, branching
-Collaboration Ready: Pull request workflows understanding
+* Active GitHub Account: Verified email address
+* SSH Keys Configured: For seamless repository access
+* Git CLI Proficiency: Repository forking, cloning, branching
+* Collaboration Ready: Pull request workflows understanding
 
 ### Network & Security:
-AWS Services Access: No corporate firewall blocks
-VPN Configuration: If required by your organization
-GitHub Access: Ability to clone and push to repositories
+* AWS Services Access: No corporate firewall blocks
+* VPN Configuration: If required by your organization
+* GitHub Access: Ability to clone and push to repositories
